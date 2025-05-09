@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swab12345-ml/swab12345-ml/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/swag12345-ml/swag12345-ml/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
