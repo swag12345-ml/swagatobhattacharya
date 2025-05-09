@@ -34,9 +34,9 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swagatobhattacharya&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swag12345-ml&show_icons=true&theme=radical" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatobhattacharya&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swag12345-ml&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swagatobhattacharya/swagatobhattacharya/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/swab12345-ml/swab12345-ml/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
